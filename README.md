@@ -8,7 +8,7 @@ An oscilloscope-style serial monitor for embedded work: plot the numbers your mi
 
 ## Try it
 
-**[Download SerialScope.exe (Windows)](https://github.com/<your-user>/SerialScope/releases/latest)**
+**[Download SerialScope.exe (Windows)](https://github.com/threatsentinels/SerialScope/releases/tag/main)**
 
 No Python needed. Double-click, pick **Simulator** in the port box, press **Connect**. The exe is unsigned, so Windows SmartScreen may warn: click **More info**, then **Run anyway**.
 
